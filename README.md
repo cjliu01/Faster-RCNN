@@ -1,2 +1,2 @@
 # Faster-RCNN
-Implementation of MSRoIPooling and MSRoIAlign in Faster RCNN
+Implementation of MultiScaleRoIAlign and MultiScaleRoIAlign in Faster RCNN
