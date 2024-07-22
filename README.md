@@ -1,5 +1,5 @@
 # Faster-RCNN
-Implementation of MultiScaleRoIAlign and MultiScaleRoIAlign in Faster RCNN, code mainly comes from [deep-learning-for-image-processing/pytorch_object_detection/faster_rcnn](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing/tree/master/pytorch_object_detection/faster_rcnn).
+Implementation of **MultiScaleRoIAlign** and **MultiScaleRoIAlign** in Faster RCNN, code mainly comes from [deep-learning-for-image-processing/pytorch_object_detection/faster_rcnn](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing/tree/master/pytorch_object_detection/faster_rcnn). Specific details analysis about the implementation of `MultiScaleRoIAlign` and `MultiScaleRoIAlign`, please refer to the [blog](https://blog.csdn.net/m0_57300975/article/details/140574528).
 
 ### Prepare environment：
 
@@ -53,5 +53,4 @@ The dataset used in this repo is Pascal VOC2012 train/val. Dataset download link
   ```
 
   
-
 
