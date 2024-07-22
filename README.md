@@ -54,7 +54,4 @@ The dataset used in this repo is Pascal VOC2012 train/val. Dataset download link
 
   
 
-  
-
-  `
 
